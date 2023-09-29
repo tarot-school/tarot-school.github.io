@@ -74,7 +74,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bundler (~> 2.1)
+  bundler (~> 2.4.6)
   jekyll-theme-conference!
   rake (~> 12.0)
 

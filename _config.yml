@@ -20,7 +20,7 @@ exclude:
   - LICENSE.md
   - REDISTRIBUTED.md
   - screenshot.png
-  #- jekyll-theme-conference.gemspec
+  - jekyll-theme-conference.gemspec
   - purgecss.config.js
   - _config.example.yml
 
