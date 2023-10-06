@@ -86,8 +86,8 @@ conference:
       - name: Program
         relative_url: /program/
         disabled: true
-      - live: true
-      - name: Past Editions
-        relative_url: /past-editions/
+#      - live: true
       - name: Location
         relative_url: /location/
+      - name: Past Editions
+        relative_url: /past-editions/
