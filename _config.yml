@@ -89,3 +89,5 @@ conference:
       - live: true
       - name: Past Editions
         relative_url: /past-editions/
+      - name: Location
+        relative_url: /location/
