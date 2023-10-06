@@ -13,7 +13,7 @@ TAROT summer school has been held all over Europe in the last 20 years:
 - [6th TAROT 2010](http://tarot2010.ist.tugraz.at/){:target="_blank"}, June 21-25, 2010, Castle Laubegg, Graz, Austria
 - [5th TAROT 2009](http://kimba.mat.ucm.es/tarot09/){:target="_blank"}, Las Navas del Marques, Spain
 - [4th TAROT 2009](http://www.int-evry.fr/tarot/summerschool2005/){:target="_blank"}, Paris, France
-- [3rd TAROT 2008](http://tarot.brunel.ac.uk/){:target="_blank"} Bath, UK
-- [2nd TAROT 2007](http://www-lsr.imag.fr/TAROT2007/index.php){:target="_blank"} Grenoble, France
-- [1st TAROT 2006](http://www.info-ab.uclm.es/tarot/){:target="_blank"}, Toledo, Spain</a>
+- [3rd TAROT 2008](http://tarot.brunel.ac.uk/){:target="_blank"}, Bath, UK
+- [2nd TAROT 2007](http://www-lsr.imag.fr/TAROT2007/index.php){:target="_blank"}, Grenoble, France
+- [1st TAROT 2006](http://www.info-ab.uclm.es/tarot/){:target="_blank"}, Toledo, Spain
 
