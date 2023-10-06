@@ -85,6 +85,7 @@ conference:
     links:
       - name: Program
         relative_url: /program/
+        disabled: true
       - live: true
       - name: Previous Editions
         menu:
