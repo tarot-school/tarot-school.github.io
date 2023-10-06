@@ -93,4 +93,4 @@ conference:
           - name: 2023
             relative_url: /2023/
           - name: 2022
-            url: https://antares.sip.ucm.es/TAROT22/
+            absolute_url: https://antares.sip.ucm.es/TAROT22/
