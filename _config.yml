@@ -87,19 +87,5 @@ conference:
         relative_url: /program/
         disabled: true
       - live: true
-      - name: Previous Editions
-        menu:
-          - name: 2024 (current)
-            disabled: true
-          - name: 2023
-#            relative_url: /2023/
-            absolute_url: https://tarot-school.org/
-          - name: 2022
-            absolute_url: https://antares.sip.ucm.es/TAROT22/
-          - name: 2020
-            absolute_url: https://web.fe.up.pt/~tarot2020/
-          - name: 2019
-            absolute_url: https://tarot2019.limos.fr/
-          - name: 2010
-            absolute_url: http://tarot2010.ist.tugraz.at/
-            
+      - name: Past Editions
+        relative_url: /past-editions/
