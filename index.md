@@ -2,7 +2,7 @@
 layout: home
 ---
 
-#![TAROT2024logo](/assets/icons/logo.png "TAROT2024 logo")
+<!---![TAROT2024logo](/assets/icons/logo.png "TAROT2024 logo")-->
 <img src="/assets/icons/logo.png" alt="TAROT2024 logo" style="width:500px; height500px"/>
 
 TAROT (Training And Research On Testing) is a network created to foster the mobility of students, faculty members and research scientists working in the field of testing of software and communication systems. This summer school brings together lecturers, researchers, students and people from the industry across Europe for one week of presentations, discussions and getting to know each other.
