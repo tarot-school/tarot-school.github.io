@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies interdum lacus quis gravida. Vestibulum eget arcu in dui facilisis luctus. Curabitur rhoncus nibh non neque viverra facilisis. Nam nec placerat augue, ut mollis ante. Morbi pulvinar iaculis felis eget pretium. Duis euismod, risus non placerat accumsan, mi nisl euismod nibh, quis finibus ante mauris eu odio.
+TAROT (Training And Research On Testing) is a network created to foster the mobility of students, faculty members and research scientists working in the field of testing of software and communication systems. This summer school brings together lecturers, researchers, students and people from the industry across Europe for one week of presentations, discussions and getting to know each other.
 
-Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Maecenas dignissim augue nec sollicitudin sagittis. Donec sagittis dolor non tincidunt eleifend. Donec vel nibh et leo pretium dignissim. Nulla vehicula arcu velit, ac facilisis turpis fermentum ac. Integer at tempus sem, in vehicula magna. Ut tempor est nec nisl imperdiet porttitor sit amet maximus massa.
+The main goal of the TAROT Summer School is to give researchers and particularly Ph.D. students the opportunity to follow a number of tutorials or invited talks by key experts in the field. The TAROT Summer School is open to researchers from any institution in the world, working in the area of testing, both from academia and industry. 
