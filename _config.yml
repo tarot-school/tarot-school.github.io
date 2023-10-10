@@ -1,9 +1,11 @@
+
 title: TAROT 2024 Summer School
+
 preposition: ''
 description: >-
   Summer School on Software Testing, Verification & Validation, Bergamo, 8th-12th July 2024
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://tarot-school.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 
@@ -109,9 +111,31 @@ conference:
 
   location:
     url: '/location'
-    map: true
+    map: false
+    hide: true
 
   program:
     url: '/program'
     time_steps: 15
     show_alltimes: true
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Cat A
+        color: info
+      - name: Cat B
+        color: success
+
+    # Hide icons on talk overview page
+    hide_icons: false  
+
+  navigation:
+    links:
+      - name: Program
+        relative_url: /program/
+        disabled: true
+#      - live: true
+      - name: Location
+        relative_url: /location/
+      - name: Past Editions
+        relative_url: /past-editions/
