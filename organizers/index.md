@@ -2,9 +2,9 @@
 layout: post
 ---
 ## Program Chairs
-Silvia Bonfanti, University of Bergamo, Italy
+Silvia Bonfanti, University of Bergamo, Italy: silvia.bonfanti@unibg.it
 
-Angelo Gargantini, University of Bergamo, Italy
+Angelo Gargantini, University of Bergamo, Italy: angelo.gargantini@unibg.it
 
 ## Steering Committee
 Ana Rosa Cavalli, Montimage France, France
