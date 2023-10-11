@@ -1,12 +1,14 @@
 ---
 layout: post
 ---
-<img src="/assets/images/logounibg.png" alt="TAROT2024 location" style="width:300px; height:118px" />
+## Program Chairs
+Silvia Bonfanti, University of Bergamo, Italy
 
-### TAROT will be held at the [University of Bergamo](https://www.unibg.it/), Bergamo, Italy.
-<img src="/assets/images/sago4.jpg" alt="TAROT2024 location" style="width:400px; height:300px"/>
+Angelo Gargantini, University of Bergamo, Italy
 
-The address is:
-[Piazzale S. Agostino, 2, 24129, Bergamo, Italy](https://maps.app.goo.gl/uc3hmgVQPqYFSu1m9)
+## Steering Committee
+Ana Rosa Cavalli, Montimage France, France
 
-<a href="https://maps.app.goo.gl/uc3hmgVQPqYFSu1m9"><img src="/assets/images/Map.png" alt="TAROT2024 location" style="width:600px; height:450px"/>
+Robert Hierons, University of Sheffield, United Kingdom
+
+Manuel Núñez Universidad Complutense de Madrid, Spain
