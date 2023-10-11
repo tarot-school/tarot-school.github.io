@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-## Program Chairs
+## Organizing Chairs
 Silvia Bonfanti, University of Bergamo, Italy
 
 Angelo Gargantini, University of Bergamo, Italy

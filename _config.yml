@@ -90,7 +90,7 @@ conference:
 #      - live: true
       - name: Location
         relative_url: /location/
-      - name: Organizers
-        relative_url: /organizers/
+      - name: Contact
+        relative_url: /contact/
       - name: Past Editions
         relative_url: /past-editions/
