@@ -83,6 +83,11 @@ conference:
     hide_icons: false  
 
   navigation:
+  logo:
+      name: TAROT 2024
+      img: '/assets/icons/logo.png'
+      url: 'https://tarot-school.github.io/'
+      
     links:
       - name: Program
         relative_url: /program/
