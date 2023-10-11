@@ -92,5 +92,7 @@ conference:
         relative_url: /location/
       - name: Contact
         relative_url: /contact/
+      - name: Sponsors
+        relative_url: /sponsor/
       - name: Past Editions
         relative_url: /past-editions/
