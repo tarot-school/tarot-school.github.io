@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img src="/assets/images/bergamoetesto.jpg" alt="TAROT2024 Bergamo"/>
+<img src="/assets/images/bergamoetesto.png" alt="TAROT2024 Bergamo"/>
 <!---![TAROT2024logo](/assets/icons/logo.png "TAROT2024 logo")-->
 <img src="/assets/icons/logo.png" alt="TAROT2024 logo" style="width:400px; height:400px" class="center"/>
 
