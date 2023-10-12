@@ -7,6 +7,6 @@ layout: post
 <img src="/assets/images/sago4.jpg" alt="TAROT2024 location" style="width:400px; height:300px"/>
 
 The address is:
-[Piazzale S. Agostino, 2, 24129, Bergamo, Italy](https://maps.app.goo.gl/uc3hmgVQPqYFSu1m9)
+[Sede Pignolo ("Baroni"), via Pignolo, 123, 24121, Bergamo](https://maps.app.goo.gl/g1jx2Bd1swVrxPjz8)
 
-<a href="https://maps.app.goo.gl/uc3hmgVQPqYFSu1m9"><img src="/assets/images/Map.png" alt="TAROT2024 location" style="width:600px; height:450px"/>
+<a href="[https://maps.app.goo.gl/uc3hmgVQPqYFSu1m9](https://maps.app.goo.gl/g1jx2Bd1swVrxPjz8)"><img src="/assets/images/Map.png" alt="TAROT2024 location" style="width:600px; height:450px"/>
