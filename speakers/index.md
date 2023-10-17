@@ -1,3 +1,3 @@
 ---
-layout: speaker-overview
+layout: post
 ---
