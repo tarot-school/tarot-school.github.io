@@ -15,6 +15,10 @@ Follow these [Payment Guidelines](https://drive.google.com/file/d/1DLLXkG_MRtn7R
 
 If you are not from an Italian institution, you can pay by bank transfer. Please, send an email to tarot2024@unibg.it to get details about bank transfer.
 
+Registration closes on the **3rd of June 2024**, or as soon as we reach the **maximum number of participants** which is around 50.
+Register as soon as possible to secure your seat!
+
+
 #### The registration fee includes:
 - Coffee breaks
 - Lunches
