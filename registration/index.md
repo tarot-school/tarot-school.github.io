@@ -23,7 +23,9 @@ If you are not from an Italian institution, you can pay by bank transfer. Please
 - Città Alta guided tour
 - Gadgets
   
-Accommodation is **not** included in the fee, but we have an agreement with Central Hostel Bergamo [www.centralhostelbg.com](www.centralhostelbg.com)
+Accommodation is **not** included in the fee. 
+
+Participants have to make their own arrangements, but we have an agreement with Central Hostel Bergamo [www.centralhostelbg.com](www.centralhostelbg.com)
 
 Here are the prices:
 - single room €35 per night,
