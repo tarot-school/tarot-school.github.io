@@ -11,7 +11,7 @@ Please, fill in this [registration form](https://forms.gle/Ds8ssGcucLXNw8iS6). T
 
 The registration fee is **€ 190**.
 
-Follow these [Payment Guidelines](https://drive.google.com/file/d/1DLLXkG_MRtn7RwMuEQQ8c7cLECVhvSWl/view?usp=sharing) to pay. The registration to the summer school is confirmed after the payment is made.
+Follow these [Payment Guidelines](https://drive.google.com/file/d/1DLLXkG_MRtn7RwMuEQQ8c7cLECVhvSWl/view?usp=sharing) to pay. The registration to the summer school is confirmed after the payment is received and confirmed by the organizers.
 
 If you are not from an Italian institution, you can pay by bank transfer. Please, send an email to tarot2024@unibg.it to get details about bank transfer.
 
