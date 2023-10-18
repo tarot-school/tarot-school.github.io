@@ -3,7 +3,7 @@ layout: post
 ---
 
 ## Registration Form
-Plese, fill in this [registration form](https://forms.gle/Ds8ssGcucLXNw8iS6). Then follows the payment guidelines below to pay.
+Please, fill in this [registration form](https://forms.gle/Ds8ssGcucLXNw8iS6). Then follow the payment guidelines below to pay.
 
 
 
@@ -23,7 +23,7 @@ If you are not from an Italian institution, you can pay by bank transfer. Please
 - Città Alta guided tour
 - Gadgets
   
-Accommodation is **not** included in the fee, but we have an agreement with Central Hostel Bergamo www.centralhostelbg.com
+Accommodation is **not** included in the fee, but we have an agreement with Central Hostel Bergamo [www.centralhostelbg.com](www.centralhostelbg.com)
 
 Here are the prices:
 - single room €35 per night,
