@@ -11,7 +11,7 @@ ___
 
 <img align="left" src="/assets/images/speakers/paoloarcaini.jpg"  width="150"> 
 
-   ### Paolo Aracaini 
+### Paolo Aracaini 
    
    is project associate professor at the National Institute of Informatics, Tokyo, Japan
 
