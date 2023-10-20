@@ -7,23 +7,22 @@ Speakers
 
 Here it is the list of speakers with an indication of the topics. The list is not complete yet.
 
-- ![A ,,,](/assets/images/speakers/prova.jpg "A") **AQuthor**, https://lll.it is professore at the univeristy of ....
-> *Testing ...*
-
-___
-![A ,,,](/assets/images/speakers/prova.jpg "A") **AQuthor**, https://lll.it is professore at the univeristy of ....
-> *Testing ...*
-
 ___
 
-<img align="left" src="/assets/images/speakers/prova.jpg"> ![A ,,,]( "A") **AQuthor**, https://lll.it is professore at the univeristy of .... will talk about .....
-> *Testing ...*
+<img align="left" src="/assets/images/speakers/paoloarcaini.jpg"  width="150"> 
+
+   ### Paolo Aracaini 
+   
+   is project associate professor at the National Institute of Informatics, Tokyo, Japan
+
+   [\[homepage\]](https://group-mmm.org/~arcaini/)  [\[scholar profile\]](https://scholar.google.com/citations?user=TvrhRdQAAAAJ)  
+   
+   > *Search-based analysis of autonomous systems*
+
+<br clear="left"/>  
 
 ___
 
-<img align="left" src="/assets/images/speakers/prova.jpg"> ![A ,,,]( "A") **AQuthor**, https://lll.it is professore at the univeristy of .... will talk about .....
-     *Testing ...*
-
-
+### TO be completed
 
 [//]: <> (### NOME E COGNOME DESCRIZIONE PAG WEB ***)
