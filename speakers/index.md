@@ -7,13 +7,23 @@ Speakers
 
 Here it is the list of speakers with an indication of the topics. The list is not complete yet.
 
-- ![Paolo ,,,](/assets/images/speakers/paoloarcaini.jpg "Paolo") **Paolo**, https://group-mmm.org/~arcaini/
+- ![A ,,,](/assets/images/speakers/prova.jpg "A") **AQuthor**, https://lll.it is professore at the univeristy of ....
+> *Testing ...*
+
+___
+![A ,,,](/assets/images/speakers/prova.jpg "A") **AQuthor**, https://lll.it is professore at the univeristy of ....
 > *Testing ...*
 
 ___
 
-- ![MarineGEO circle logo](/assets/assets/images/speakers/paoloarcaini.jpg "MarineGEO logo") **Another author**, https://group-mmm.org/~arcaini/
-> *Tesing ...*
+<img align="left" src="/assets/images/speakers/prova.jpg"> ![A ,,,]( "A") **AQuthor**, https://lll.it is professore at the univeristy of .... will talk about .....
+> *Testing ...*
+
+___
+
+<img align="left" src="/assets/images/speakers/prova.jpg"> ![A ,,,]( "A") **AQuthor**, https://lll.it is professore at the univeristy of .... will talk about .....
+     *Testing ...*
+
 
 
 [//]: <> (### NOME E COGNOME DESCRIZIONE PAG WEB ***)
