@@ -9,7 +9,7 @@ Here it is the list of speakers with an indication of the topics. The list is no
 
 ___
 
-<img align="left" padding="1px 4px 1px 0px" src="/assets/images/speakers/paoloarcaini.jpg"  width="150"> 
+<img align="left" style="padding: 1px 4px 1px 0px;" src="/assets/images/speakers/paoloarcaini.jpg"  width="150"> 
 
 ### Paolo Arcaini 
    
