@@ -98,3 +98,6 @@ conference:
         relative_url: /sponsor/
       - name: Past Editions
         relative_url: /past-editions/
+    logo:
+      name: tarot logo
+      img: 'logoTarot.png'  # inside /assets/images/
