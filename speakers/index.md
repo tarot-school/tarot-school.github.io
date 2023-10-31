@@ -23,7 +23,7 @@ ___
 
 ___
 
-<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/paoloarcaini.jpg"  width="140"> 
+<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/manuel.jpg"  width="140"> 
 
 ### Manuel Núñez
    
