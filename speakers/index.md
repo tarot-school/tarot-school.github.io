@@ -11,7 +11,7 @@ ___
 
 <img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/dimitris.jpg"  width="140"> 
 
-### Gunel Jahangirova
+### Dimitris E. Simos
   is key researcher for the Applied Discrete Mathematics for Information Security research area at SBA Research, Associate Professor with Graz University of Technology, and leads the Mathematics for Testing, Reliability and Information Security (MATRIS) Research Group since 2017. 
    
    [\[homepage\]](https://www.sba-research.org/team/dimitris-e-simos/)  [\[scholar profile\]](https://scholar.google.com/citations?user=EiefJbgAAAAJ&hl=en)  
