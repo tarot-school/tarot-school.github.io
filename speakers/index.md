@@ -9,6 +9,17 @@ Here it is the list of speakers (in alphabetic order by name) with a preliminary
 
 ___
 
+<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/dimitris.jpg"  width="140"> 
+
+### Gunel Jahangirova
+  is key researcher for the Applied Discrete Mathematics for Information Security research area at SBA Research, Associate Professor with Graz University of Technology, and leads the Mathematics for Testing, Reliability and Information Security (MATRIS) Research Group since 2017. 
+   
+   [\[homepage\]](https://www.sba-research.org/team/dimitris-e-simos/)  [\[scholar profile\]](https://scholar.google.com/citations?user=EiefJbgAAAAJ&hl=en)  
+   > *Combinatorial testing*
+<br clear="left"/>  
+
+___
+
 <img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/gunel.jpg"  width="140"> 
 
 ### Gunel Jahangirova
