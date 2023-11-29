@@ -56,6 +56,19 @@ ___
 
 ___
 
+<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/natalia.png"  width="140"> 
+
+### Natalia Kushik
+   is Associate Professor at Télécom SudParis, Institut Polytechnique de Paris 
+   
+   [\[homepage\]](https://samovar.telecom-sudparis.eu/index.php/acmes-2/natalia-kushik-2/)  [\[scholar profile\]](https://scholar.google.com/citations?user=9f7uqgcAAAAJ&hl=en)  
+   > *Formal languages and automata theory*
+
+<br clear="left"/>  
+
+___
+
+
 <img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/paoloarcaini.jpg"  width="140"> 
 
 ### Paolo Arcaini 
