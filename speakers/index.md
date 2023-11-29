@@ -56,7 +56,7 @@ ___
 
 ___
 
-<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/natalia.png"  width="140"> 
+<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/natalia.jpg"  width="140"> 
 
 ### Natalia Kushik
    is Associate Professor at Télécom SudParis, Institut Polytechnique de Paris 
