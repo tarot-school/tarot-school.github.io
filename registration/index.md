@@ -1,6 +1,10 @@
 ---
 layout: post
 ---
+## ECTS credits
+
+The TAROT Summer School awards **3 ECTS** credits (students only; at least 90% of attendance). 
+We will give you an official certificate attesting to your successful participation at the school.
 
 ## Registration Form
 Please, fill in this [registration form](https://forms.gle/Ds8ssGcucLXNw8iS6). Then follow the payment guidelines below to pay.
@@ -17,7 +21,6 @@ If you have problems paying by following the above guidelines, please, send an e
 
 Registration closes on the **3rd of June 2024**, or as soon as we reach the **maximum number of participants** which is around 50.
 Register as soon as possible to secure your seat!
-
 
 #### The registration fee includes:
 - Coffee breaks
