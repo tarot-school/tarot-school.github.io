@@ -23,7 +23,7 @@ ___
 <img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/franz.jpg"  width="140"> 
 
 ### Franz Wotawa
-  is currently professor of software engineering at the Graz University of Technology. He founded Softnet Austria in 2006, which is a non-profit organization carrying out applied research projects together with companies. Starting from October 2017, Franz Wotawa is the head of the Christian Doppler Laboratory for Quality Assurance Methodologies for Autonomous Cyber-Physical Systems.
+  is professor of software engineering at the Graz University of Technology. He founded Softnet Austria in 2006, which is a non-profit organization carrying out applied research projects together with companies. Starting from October 2017, Franz Wotawa is the head of the Christian Doppler Laboratory for Quality Assurance Methodologies for Autonomous Cyber-Physical Systems.
    
    [\[homepage\]](https://www.tugraz.at/institute/ist/research/group-wotawa/people/franz-wotawa)  [\[scholar profile\]](https://scholar.google.com/citations?user=Z27gH2wAAAAJ&hl=en)  
    > *Search-based and combinatorial testing autonomous driving*
@@ -47,7 +47,7 @@ ___
 
 ### Manuel Núñez
    
-   is Professor  at the Universidad Complutense de Madrid, Spain
+   is Professor  at the Universidad Complutense de Madrid, Spain.
    
    [\[homepage\]](https://antares.sip.ucm.es/manolo/)  [\[scholar profile\]](https://scholar.google.com/citations?user=7pVrpyEAAAAJ)     
    > *Metamorphic testing of maps*
@@ -71,7 +71,7 @@ ___
 <img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/natalia.png"  width="140"> 
 
 ### Natalia Kushik
-   is Associate Professor at Télécom SudParis, Institut Polytechnique de Paris 
+   is Associate Professor at Télécom SudParis, Institut Polytechnique de Paris. 
    
    [\[homepage\]](https://samovar.telecom-sudparis.eu/index.php/acmes-2/natalia-kushik-2/)  [\[scholar profile\]](https://scholar.google.com/citations?user=9f7uqgcAAAAJ&hl=en)  
    > *Formal languages and automata theory*
@@ -93,8 +93,17 @@ ___
 
 <br clear="left"/>  
 
+___
 
+<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/Shaukat.jpg"  width="140"> 
 
-### TO be completed
+### Shaukat Ali
+    is chief research scientist, research professor, and the head of the Department at Simula Research Laboratory, Norway. 
+   
+   [\[homepage\]](https://www.simula.no/people/shaukat)  [\[scholar profile\]](https://scholar.google.com/citations?user=S_UVLhUAAAAJ&hl=en)  
+   > *Quantum software testing*
 
+<br clear="left"/>  
+
+___
 [//]: <> (### NOME E COGNOME DESCRIZIONE PAG WEB ***)
