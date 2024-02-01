@@ -20,6 +20,18 @@ ___
 
 ___
 
+<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/franz.jpg"  width="140"> 
+
+### Franz Wotawa
+  is currently professor of software engineering at the Graz University of Technology. He founded Softnet Austria in 2006, which is a non-profit organization carrying out applied research projects together with companies. Starting from October 2017, Franz Wotawa is the head of the Christian Doppler Laboratory for Quality Assurance Methodologies for Autonomous Cyber-Physical Systems.
+   
+   [\[homepage\]](https://www.tugraz.at/institute/ist/research/group-wotawa/people/franz-wotawa)  [\[scholar profile\]](https://scholar.google.com/citations?user=Z27gH2wAAAAJ&hl=en)  
+   > *Search-based and combinatorial testing autonomous driving*
+<br clear="left"/>  
+
+___
+
+
 <img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/gunel.jpg"  width="140"> 
 
 ### Gunel Jahangirova
