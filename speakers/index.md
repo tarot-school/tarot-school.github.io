@@ -85,7 +85,7 @@ ___
 
 ### Paolo Arcaini 
    
-   is project associate professor at the National Institute of Informatics, Tokyo, Japan
+   is project associate professor at the National Institute of Informatics, Tokyo, Japan.
 
    [\[homepage\]](https://group-mmm.org/~arcaini/)  [\[scholar profile\]](https://scholar.google.com/citations?user=TvrhRdQAAAAJ)  
    
@@ -101,9 +101,11 @@ ___
     is chief research scientist, research professor, and the head of the Department at Simula Research Laboratory, Norway. 
    
    [\[homepage\]](https://www.simula.no/people/shaukat)  [\[scholar profile\]](https://scholar.google.com/citations?user=S_UVLhUAAAAJ&hl=en)  
+   
    > *Quantum software testing*
 
 <br clear="left"/>  
 
 ___
+
 [//]: <> (### NOME E COGNOME DESCRIZIONE PAG WEB ***)
