@@ -5,7 +5,7 @@ title: Speakers
 Speakers
 ===============
 
-Here it is the list of speakers (in alphabetic order by name) with a preliminary indication of the topics. The list is not complete yet.
+Here it is the list of speakers (in alphabetic order by name) with a preliminary indication of the topics.
 
 ___
 
