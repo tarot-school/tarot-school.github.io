@@ -56,18 +56,6 @@ ___
 
 ___
 
-<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/mercedes.png"  width="140"> 
-
-### Mercedes G. Merayo
-   is  Professor at the Universidad Complutense de Madrid, Spain.
-   
-   [\[homepage\]](https://antares.sip.ucm.es/mercedes/)  [\[scholar profile\]](https://scholar.google.com/citations?user=MRBNumEAAAAJ)  
-   > *Metamorphic testing of maps*
-
-<br clear="left"/>  
-
-___
-
 <img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/natalia.png"  width="140"> 
 
 ### Natalia Kushik
@@ -98,8 +86,8 @@ ___
 <img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/Shaukat.jpg"  width="140"> 
 
 ### Shaukat Ali
-    is Chief research scientist, Research Professor, and the head of the Department at Simula Research Laboratory, Norway. 
-   
+  is Chief research scientist, Research Professor, and the head of the Department at Simula Research Laboratory, Norway. 
+  
    [\[homepage\]](https://www.simula.no/people/shaukat)  [\[scholar profile\]](https://scholar.google.com/citations?user=S_UVLhUAAAAJ&hl=en)  
    
    > *Quantum software testing*
