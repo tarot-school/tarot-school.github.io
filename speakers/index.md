@@ -68,7 +68,7 @@ ___
 
 ___
 
-<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/nina.png"  width="140"> 
+<img align="left" style="padding: 1px 10px 1px 0px;" src="/assets/images/speakers/nina.jpg"  width="140"> 
 
 ### Nina Yevtushenko
    is Leading researcher of Ivannikov Institute for System Programming of the RAS, Moscow, Russia,
