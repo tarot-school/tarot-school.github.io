@@ -30,10 +30,10 @@ The order of speakers could change.
         <td></td>
         <td></td>
         <td style="text-align:center;vertical-align:center;">08/07/2024</td>
-        <td>09/07/2024</td>
-        <td>10/07/2024</td>
-        <td>11/07/2024</td>
-        <td>12/07/2024</td>
+        <td style="text-align:center;vertical-align:center;">09/07/2024</td>
+        <td style="text-align:center;vertical-align:center;">10/07/2024</td>
+        <td style="text-align:center;vertical-align:center;">11/07/2024</td>
+        <td style="text-align:center;vertical-align:center;">12/07/2024</td>
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse;">
