@@ -25,7 +25,8 @@ The order of speakers could change.
 
 <table style=" border: 1px solid black;
   border-collapse: collapse;">
-    <tr>
+    <tr style=" border: 1px solid black;
+  border-collapse: collapse;">
         <td></td>
         <td></td>
         <td style="border-color:inherit;text-align:center;vertical-align:top;">08/07/2024</td>
