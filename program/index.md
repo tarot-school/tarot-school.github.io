@@ -112,8 +112,8 @@ layout: post
         <td><b>22:00</b></td>
         <td>🟡 Welcome reception Ristorante il Sole Città Alta;</td>
         <td></td>
-        <td></td>
         <td>🟡 Social event - Il Circolino</td>
+        <td></td>
         <td></td>
     </tr>
 </table>
