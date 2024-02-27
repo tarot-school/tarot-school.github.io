@@ -21,7 +21,9 @@ The order of speakers could change.
 🔵 "Students and Research Project’s presentations" and "Panel discussion": slots where participants can present their work (paper, work in progress, posters, and others)
 
 
-<table>
+
+
+<table style="border:5px double black;">
     <tr>
         <td></td>
         <td></td>
@@ -106,13 +108,10 @@ The order of speakers could change.
     <tr>
         <td>19:30</td>
         <td>22:00</td>
-        <td>&quot;Welcome reception -</td>
-    </tr>
-    <tr>
-        <td>Ristorante il Sole Città Alta&quot;</td>
+        <td>Welcome reception Ristorante il Sole Città Alta&quot;</td>
+        <td></td>
         <td></td>
         <td>Social event - Il Circolino</td>
-        <td></td>
         <td></td>
     </tr>
 </table>
