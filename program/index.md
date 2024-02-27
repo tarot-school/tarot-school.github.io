@@ -10,16 +10,17 @@ layout: post
   border-collapse: collapse; border-right:1px solid black;">
         <td></td>
         <td></td>
-        <td style="text-align:center;vertical-align:center;">08/07/2024</td>
-        <td style="text-align:center;vertical-align:center;">09/07/2024</td>
-        <td style="text-align:center;vertical-align:center;">10/07/2024</td>
-        <td style="text-align:center;vertical-align:center;">11/07/2024</td>
-        <td style="text-align:center;vertical-align:center;">12/07/2024</td>
+        <td style="text-align:center;vertical-align:center;"> <b>08/07/2024</td>
+        <td style="text-align:center;vertical-align:center;"><b>09/07/2024</td>
+        <td style="text-align:center;vertical-align:center;"><b>10/07/2024</td>
+        <td style="text-align:center;vertical-align:center;"><b>11/07/2024</td>
+        <td style="text-align:center;vertical-align:center;"><b>12/07/2024</td>
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse; text-align:center;vertical-align:center;">
-        <td>9:00</td>
-        <td>10:30</td>
+        <td><b>9:00</td>
+        <td><b> - </b></td>
+        <td><b>10:30</td>
         <td> 🟢 Welcome and information</td>
         <td> 🟢 Paolo Arcaini</td>
         <td> 🟢 Dimitris Simos</td>
@@ -28,8 +29,9 @@ layout: post
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse; text-align:center;vertical-align:center;">
-        <td>10:30</td>
-        <td>11:00</td>
+        <td><b>10:30</td>
+        <td><b> - </b></td>
+        <td><b>11:00</td>
         <td>🟠 Coffee Break</td>
         <td>🟠 Coffee Break</td>
         <td>🟠 Coffee Break</td>
@@ -38,8 +40,9 @@ layout: post
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse; text-align:center;vertical-align:center;">
-        <td>11:00</td>
-        <td>12:30</td>
+        <td><b>11:00</td>
+        <td><b> - </b></td>
+        <td><b>12:30</td>
         <td> 🟢 Manuel Núñez </td>
         <td> 🟢 Gunel Jahangirova</td>
         <td> 🟢 Dimitris Simos</td>
@@ -48,8 +51,9 @@ layout: post
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse; text-align:center;vertical-align:center;">
-        <td>12:30</td>
-        <td>14:30</td>
+        <td><b>12:30</td>
+        <td><b> - </b></td>
+        <td><b>14:30</td>
         <td>🟠 Lunch</td>
         <td>🟠 Lunch</td>
         <td>🟠 Lunch</td>
@@ -58,8 +62,9 @@ layout: post
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse; text-align:center;vertical-align:center;">
-        <td>14:30</td>
-        <td>16:00</td>
+        <td><b>14:30</td>
+        <td><b> - </b></td>
+        <td><b>16:00</td>
         <td> 🟢 Paolo Arcaini</td>
         <td> 🟢 Gunel Jahangirova</td>
         <td> 🟢 Franz Wotawa</td>
@@ -68,8 +73,9 @@ layout: post
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse; text-align:center;vertical-align:center;">
-        <td>16:00</td>
-        <td>16:30</td>
+        <td><b>16:00</td>
+        <td><b> - </b></td>
+        <td><b>16:30</td>
         <td>🟠 Coffee Break</td>
         <td>🟠 Coffee Break</td>
         <td>🟠 Coffee Break</td>
@@ -78,8 +84,9 @@ layout: post
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse; text-align:center;vertical-align:center;">
-        <td>16:30</td>
-        <td>18:00</td>
+        <td><b>16:30</td>
+        <td><b> - </b></td>
+        <td><b>18:00</td>
         <td>🔵 Students and Research Project’s presentations</td>
         <td>🔵 Students and Research Project’s presentations</td>
         <td>🔵 Panel discussion</td>
@@ -88,8 +95,9 @@ layout: post
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse; text-align:center;vertical-align:center;">
-        <td>18:00</td>
-        <td>19:30</td>
+        <td><b>18:00</td>
+        <td><b> - </b></td>
+        <td><b>19:30</td>
         <td></td>
         <td>🟡 Città Alta tour</td>
         <td></td>
@@ -98,8 +106,9 @@ layout: post
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse; text-align:center;vertical-align:center;">
-        <td>19:30</td>
-        <td>22:00</td>
+        <td><b>19:30</td>
+        <td><b> - </b></td>
+        <td><b>22:00</td>
         <td>🟡 Welcome reception Ristorante il Sole Città Alta;</td>
         <td></td>
         <td></td>
