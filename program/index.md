@@ -36,7 +36,7 @@ The order of speakers could change.
         <td style="text-align:center;vertical-align:center;">12/07/2024</td>
     </tr>
     <tr style=" border: 1px solid black;
-  border-collapse: collapse;">
+  border-collapse: collapse; text-align:center;vertical-align:center;">
         <td>9:00</td>
         <td>10:30</td>
         <td> 🟢 Welcome and information</td>
