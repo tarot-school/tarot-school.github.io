@@ -19,3 +19,100 @@ layout: post
 The order of speakers could change.
 
 🔵 "Students and Research Project’s presentations" and "Panel discussion": slots where participants can present their work (paper, work in progress, posters, and others)
+
+
+<table>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>08/07/2024</td>
+        <td>09/07/2024</td>
+        <td>10/07/2024</td>
+        <td>11/07/2024</td>
+        <td>12/07/2024</td>
+    </tr>
+    <tr>
+        <td>9:00</td>
+        <td>10:30</td>
+        <td> 🟢 Welcome and information</td>
+        <td>Paolo Arcaini</td>
+        <td>Dimitris Simos</td>
+        <td>Franz Wotawa</td>
+        <td>Shaukat Ali</td>
+    </tr>
+    <tr>
+        <td>10:30</td>
+        <td>11:00</td>
+        <td>Coffee Break</td>
+        <td>Coffee Break</td>
+        <td>Coffee Break</td>
+        <td>Coffee Break</td>
+        <td>Coffee Break</td>
+    </tr>
+    <tr>
+        <td>11:00</td>
+        <td>12:30</td>
+        <td>Manuel Núñez </td>
+        <td>Gunel Jahangirova</td>
+        <td>Dimitris Simos</td>
+        <td>Natalia Kushik</td>
+        <td>Shaukat Ali</td>
+    </tr>
+    <tr>
+        <td>12:30</td>
+        <td>14:30</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+        <td>Lunch</td>
+    </tr>
+    <tr>
+        <td>14:30</td>
+        <td>16:00</td>
+        <td>Paolo Arcaini</td>
+        <td>Gunel Jahangirova</td>
+        <td>Franz Wotawa</td>
+        <td>Nina Yevtushenko</td>
+        <td>Panel discussion</td>
+    </tr>
+    <tr>
+        <td>16:00</td>
+        <td>16:30</td>
+        <td>Coffee Break</td>
+        <td>Coffee Break</td>
+        <td>Coffee Break</td>
+        <td>Coffee Break</td>
+        <td>Coffee Break</td>
+    </tr>
+    <tr>
+        <td>16:30</td>
+        <td>18:00</td>
+        <td>Students and Research Project’s presentations</td>
+        <td>Students and Research Project’s presentations</td>
+        <td>Panel discussion</td>
+        <td>Students and Research Project’s presentations</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>18:00</td>
+        <td>19:30</td>
+        <td></td>
+        <td>Città Alta tour</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>19:30</td>
+        <td>22:00</td>
+        <td>&quot;Welcome reception -</td>
+    </tr>
+    <tr>
+        <td>Ristorante il Sole Città Alta&quot;</td>
+        <td></td>
+        <td>Social event - Il Circolino</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
