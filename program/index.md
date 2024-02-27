@@ -28,7 +28,7 @@ The order of speakers could change.
     <tr>
         <td></td>
         <td></td>
-        <td>08/07/2024</td>
+        <td style="border-color:inherit;text-align:center;vertical-align:top;">08/07/2024</td>
         <td>09/07/2024</td>
         <td>10/07/2024</td>
         <td>11/07/2024</td>
