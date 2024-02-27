@@ -23,7 +23,8 @@ The order of speakers could change.
 
 
 
-<table style="border:5px double black;">
+<table style=" border: 1px solid black;
+  border-collapse: collapse;">
     <tr>
         <td></td>
         <td></td>
