@@ -32,7 +32,7 @@ layout: post
   border-collapse: collapse; text-align:center;vertical-align:center;">
         <td><b>10:30</b></td>
         <td><b> - </b></td>
-        <td><b>11:00</b>/td>
+        <td><b>11:00</b></td>
         <td>🟠 Coffee Break</td>
         <td>🟠 Coffee Break</td>
         <td>🟠 Coffee Break</td>
