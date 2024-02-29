@@ -47,3 +47,9 @@ Here are the prices:
 
 If you are planning to book a room at Central Hostel Bergamo, contact them by specifying that you will attend a summer school organized by the University of Bergamo.
 
+***
+#### Extra tickets for Welcome Reception, Social City Tour, Social dinner can be purchased, please contact us for further information.
+***
+
+
+
