@@ -62,7 +62,7 @@ ___
    is Associate Professor at Télécom SudParis, Institut Polytechnique de Paris. 
    
    [\[homepage\]](https://samovar.telecom-sudparis.eu/index.php/acmes-2/natalia-kushik-2/)  [\[scholar profile\]](https://scholar.google.com/citations?user=9f7uqgcAAAAJ&hl=en)  
-   > *Formal languages and automata theory*
+   > *State identification in FSM based testing*
 
 <br clear="left"/>  
 
@@ -74,7 +74,7 @@ ___
    is Leading researcher of Ivannikov Institute for System Programming of the RAS, Moscow, Russia,
    
    [\[homepage\]](https://www.ispras.ru/en/proceedings/yevtushenko.php)  [\[scholar profile\]](https://scholar.google.com/citations?user=4umx7J0AAAAJ&hl=en)  
-   > *Formal languages and automata theory*
+   > *State identification in FSM based testing*
 
 <br clear="left"/>  
 
