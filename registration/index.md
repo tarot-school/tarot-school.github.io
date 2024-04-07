@@ -13,7 +13,7 @@ Please, fill in this [registration form](https://forms.gle/Ds8ssGcucLXNw8iS6). T
 
 ## Registration details
 
-The registration fee is **€ 190**.
+The registration fee is **€ 190** (thanks to our generous sponsors!).
 
 Follow these [Payment Guidelines](https://drive.google.com/file/d/1DLLXkG_MRtn7RwMuEQQ8c7cLECVhvSWl/view?usp=sharing) to pay. The registration to the summer school is confirmed after the payment is received and confirmed by the organizers.
 
