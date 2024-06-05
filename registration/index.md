@@ -1,13 +1,18 @@
 ---
 layout: post
 ---
+
+
+
+$${\color{red} {REGISTRATIONS}} \space {\color{red} {ARE}} \space {\color{red} {NOW}} \space {\color{red} {CLOSED}}$$
+
 ## ECTS credits
 
 The TAROT Summer School awards **3 ECTS** credits (students only; at least 90% of attendance). 
 We will give you an official certificate attesting to your successful participation at the school.
 
-## Registration Form
-Please, fill in this [registration form](https://forms.gle/Ds8ssGcucLXNw8iS6). Then follow the payment guidelines below to pay.
+<!--## Registration Form
+Please, fill in this [registration form](https://forms.gle/Ds8ssGcucLXNw8iS6). Then follow the payment guidelines below to pay.-->
 
 
 
