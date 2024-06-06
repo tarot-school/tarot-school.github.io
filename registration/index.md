@@ -50,7 +50,7 @@ Here are the prices:
 - sextuple room €125 per night,
 - bed in a mixed dormitory shared with others €25 per night.
 
-If you are planning to book a room at Central Hostel Bergamo, contact them by specifying that you will attend a summer school organized by the University of Bergamo.
+If you are planning to book a room at Central Hostel Bergamo, contact them by specifying that you will attend a summer school organized by the University of Bergamo. Note that we did not make any reservation, so rooms are subject to availability. 
 
 ***
 #### Extra tickets for Welcome Reception, Social City Tour, Social dinner can be purchased, please contact us for further information.
