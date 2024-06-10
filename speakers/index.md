@@ -38,7 +38,7 @@ ___
    is Lecturer (Assistant Professor) at King's College London in the United Kingdom. 
    
    [\[homepage\]](https://sites.google.com/view/guneljahangirova)  [\[scholar profile\]](https://scholar.google.com/citations?user=kQkXMS4AAAAJ)  
-   > *DL testing*
+   > *Real faults in deep learning systems and what to do with them?*
 <br clear="left"/>  
 
 ___
