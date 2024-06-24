@@ -33,6 +33,7 @@ Register as soon as possible to secure your seat!
 - Welcome reception
 - Social event
 - Città Alta guided tour
+- Light dinner
 - Gadgets
   
 Accommodation is **not** included in the fee. 
