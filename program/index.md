@@ -113,7 +113,7 @@ layout: post
         <td>🟡 Welcome reception Ristorante il Sole Città Alta;</td>
         <td></td>
         <td>🟡 Social event - Il Circolino</td>
-        <td></td>
+        <td>🟡 Light dinner - Braseria On The Road</td>
         <td></td>
     </tr>
 </table>
