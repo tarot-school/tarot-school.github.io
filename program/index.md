@@ -89,7 +89,7 @@ layout: post
         <td><b> - </b></td>
         <td><b>18:00</b></td>
         <td>🔵 Students and Research Project’s presentations</td>
-        <td>🟡 Città Alta tour</td</td>
+        <td>🟡 Città Alta tour</td>
         <td>🔵 Panel discussion</td>
         <td>🔵 Students and Research Project’s presentations</td>
         <td></td>
@@ -100,7 +100,7 @@ layout: post
         <td><b> - </b></td>
         <td><b>19:30</b></td>
         <td></td>
-        <td>>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
