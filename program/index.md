@@ -98,7 +98,7 @@ layout: post
   border-collapse: collapse; text-align:center;vertical-align:center;">
         <td><b>18:00</b></td>
         <td><b> - </b></td>
-        <td><b>19:30</b></td>
+        <td><b>19:00</b></td>
         <td></td>
         <td></td>
         <td></td>
@@ -107,7 +107,7 @@ layout: post
     </tr>
     <tr style=" border: 1px solid black;
   border-collapse: collapse; text-align:center;vertical-align:center;">
-        <td><b>19:30</b></td>
+        <td><b>19:00</b></td>
         <td><b> - </b></td>
         <td><b>22:00</b></td>
         <td>🟡 Welcome reception Ristorante il Sole Città Alta;</td>
