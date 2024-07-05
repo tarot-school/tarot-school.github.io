@@ -110,10 +110,10 @@ layout: post
         <td><b>19:00</b></td>
         <td><b> - </b></td>
         <td><b>22:00</b></td>
-        <td>🟡 Welcome reception Ristorante il Sole Città Alta;</td>
+        <td>🟡 Welcome reception Ristorante il Sole Città Alta [Here](https://maps.app.goo.gl/d8XsZgNtSkNuqQrx8);</td>
         <td></td>
-        <td>🟡 Social event - Il Circolino</td>
-        <td>🟡 Light dinner - Braseria On The Road</td>
+        <td>🟡 Social event - Il Circolino [Here](https://maps.app.goo.gl/H7rSyETZPmCnNCk27)</td>
+        <td>🟡 Light dinner - Braseria On The Road [Here](https://maps.app.goo.gl/gcumthKxJckmGLgG6)</td>
         <td></td>
     </tr>
 </table>
