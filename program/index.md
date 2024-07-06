@@ -91,7 +91,7 @@ layout: post
         <td>🔵 Students and Research Project’s presentations</td>
         <td>🟡 Città Alta tour</td>
         <td>🔵 Students and Research Project’s presentations</td>
-        <td>🔵 Panel discussion</td>
+        <td>🔵 Students and Research Project’s presentations</td>
         <td></td>
     </tr>
     <tr style=" border: 1px solid black;
